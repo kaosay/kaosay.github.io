@@ -10,3 +10,6 @@ title: "Kubernetes 概述"
 
 ##  Install:
 
+### install master:
+
+### install nodes:
