@@ -5,7 +5,7 @@ description: share knowledge~
 # 头像里面的标题
 avatarTitle: kaosay 
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: shell / go 
 url: "https://xxx.cn"
 
 # 博客是否自动生成目录，false为不生成
@@ -19,24 +19,24 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 
+    github: kaosay 
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 
     # twitter: 
-    mail: 547091630@icloud.com
+    mail: 547091630@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+    id: #8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3  
+    id: #UA-84134159-3  
     host: auto  
 
 
