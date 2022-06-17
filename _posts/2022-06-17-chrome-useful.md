@@ -8,4 +8,4 @@ title: Chrome keyboard shortcut
 
 ```
 
-https://support.google.com/chrome/answer/157179?hl=zh-Hans&co=GENIE.Platform%3DDesktop
+<https://support.google.com/chrome/answer/157179?hl=zh-Hans&co=GENIE.Platform%3DDesktop>
